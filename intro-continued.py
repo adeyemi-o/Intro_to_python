@@ -40,7 +40,7 @@ print(x)  # this will give boolean result True or False
 # == equal to
 
 # ----------------------------------
-# LOGICAL Operators - revise the truth table for better knowledge
+# LOGICAL Operators - revise the truth table for better knowledge - AND/OR/NOT
 # ----------------------------------
 
 price = 25
