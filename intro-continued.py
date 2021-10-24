@@ -19,6 +19,8 @@ print(x)
 
 # just like in maths, operator precedence multiplication before addition
 y = 10 + 3 * 2  # this will give 16, 3 * 2 before adding 10
+z = (10 + 3) * 2  # this will give 26 as 10 + 2 will be evaluated first
 print(y)
+print(z)
 
 
