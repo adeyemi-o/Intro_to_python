@@ -1,5 +1,5 @@
 # ----------------------------------
-# if Statements
+# Conditional if/else Statements
 # ----------------------------------
 
 temperature = 9
