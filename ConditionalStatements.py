@@ -13,3 +13,11 @@ elif temperature > 10:
 else:
     print("it's freezing")
 print("Done")
+
+# get an input and try out an if statement with a comparison operator
+a = int(input("Enter a number: "))
+
+b = 8
+
+if a < b:
+    print(str(a) + ' is less than ' + str(b))
